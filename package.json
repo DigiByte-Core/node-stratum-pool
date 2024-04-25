@@ -28,8 +28,8 @@
         "url": "https://github.com/DigiByte-Core/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
-        "bignum": "0.12.5",
+        "multi-hashing": "https://github.com/JaredTate/node-multi-hashing.git",
+        "bignum": "https://github.com/JaredTate/node-bignum.git",
         "base58-native": "*",
         "async": "*"
     },
